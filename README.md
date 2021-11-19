@@ -15,4 +15,5 @@ Keyboard pcb has dimensions predefined by the LCD's dimensions of 13.3 inch diag
 
 The keys have some ergonomic solution that gives some additional design touch.
 
-The keyboard switches are important but are for now very typical low cost membrane switches. A little better solution are the softer (silicone) – but still membrane – switches. The idea is to have a waterproof (silicone) layer over the whole board. The board can then already act as a top cover. The feel of silicone rubber is preferred to that of natural rubber.
+The keyboard switches are important but are for now very typical low cost membrane switches. A little better solution are the softer (silicone) – but still membrane – switches. The idea is to have an option as in a waterproof (silicone) layer over the whole board. The board can then already act as a top cover. The feel of silicone rubber is preferred to that of natural rubber.
+But Balthazar also deserves a proper low-profile switches with caps and we designed a keyboard so it can accomodate both solutions.
