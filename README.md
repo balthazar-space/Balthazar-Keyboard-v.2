@@ -1,11 +1,10 @@
-balthazar
+# Balthazar
 
-Open-hardware laptop computer modules
+Open-hardware laptop computer modules description and concept.
 
-Electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access
+These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
-KiCad 5.1.5 files
-balthazarKeyboard2
+# balthazarKeyboard2
 
 Computer Keyboard version 2 system built around an 8-bit Atmel ATmega 32u4 microcontroller. A normal ISO keyboard layout is used.
 
@@ -18,6 +17,17 @@ The keys have some ergonomic solution that gives some additional design touch.
 The keyboard switches are important but are for now very typical low cost membrane switches. A little better solution are the softer (silicone) – but still membrane – switches. The idea is to have an option as in a waterproof (silicone) layer over the whole board. The board can then already act as a top cover. The feel of silicone rubber is preferred to that of natural rubber.
 But Balthazar also deserves a proper low-profile switches with caps and we designed a keyboard so it can accomodate both solutions.
 
+KiCad 5.1.5 files.
+
+## License
+
+All resources except the keyboard firmware - which is licensed with with GPLv3 or later - licensed under the CERN Open Hardware Licence CERN-OHL W V.2.0
+
+Version 2.0 of the CERN-OHL introduces three variants of the licence – strongly (S) reciprocal, weakly (W) reciprocal and permissive (P) – which aim to address specific constraints caused by different collaboration models currently used in open-hardware projects. 
+
+The first two variants mean that if any product is made using an open hardware design, the design of that product, including any improvements or modifications, should be made available under the same licence as that of the original product. Permissive licences do not impose this condition.
+
+See the [LICENSE.md](./LICENSE.md) file for more information.
 
 ## Funding
 
