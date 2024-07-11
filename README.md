@@ -4,7 +4,7 @@ Open-hardware laptop computer modules description and concept.
 
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
-# balthazarKeyboard2
+# Balthazar Keyboard v.2
 
 Computer Keyboard version 2 system built around an 8-bit Atmel ATmega 32u4 microcontroller. A normal ISO keyboard layout is used.
 
